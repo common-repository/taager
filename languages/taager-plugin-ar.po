@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/taager-woocommerce-plugin\n"
+"POT-Creation-Date: 2022-10-21T23:53:41+00:00\n"
+"PO-Revision-Date: 2022-10-22 02:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Taager"
+msgstr "تاجر"
+
+#. Description of the plugin
+msgid "A plugin to manage Woocommerce products, orders with Taager."
+msgstr "إضافة لإدارة منتجات ووكومرس, وإضافة الطلبات على موقع تاجر."
+
+#: includes/pages/ta-account.php:15
+msgid "Link your store with your Taager account"
+msgstr "ربط متجرك بحسابك على منصة تاجر"
+
+#: includes/pages/ta-account.php:17
+msgid "Please enter your Taager account login credentials"
+msgstr "من فضلك ادخل بيانات الدخول الخاصة بحساب منصة تاجر"
+
+#: includes/pages/ta-account.php:21
+msgid "Invalid login details. Please check your username/password and try again."
+msgstr "لقد حدث خطأ في تسجيل الدخول. برجاء التأكد من اسم المستخدم و كلمة السر."
+
+#: includes/pages/ta-account.php:30
+msgid "Logged in as:"
+msgstr "تسجيل الدخول برقم:"
+
+#: includes/pages/ta-account.php:32
+msgid "Selected country:"
+msgstr "البلد المختارة:"
+
+#: includes/pages/ta-account.php:35
+msgid "Plugin version:"
+msgstr "نسخة الإضافة:"
+
+#: includes/pages/ta-account.php:37
+msgid "Logout"
+msgstr "تسجيل الخروج"
+
+#: includes/pages/ta-account.php:42
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: includes/pages/ta-account.php:45
+msgid "Email or phone number"
+msgstr "البريد الالكترونى أو رقم الهاتف"
+
+#: includes/pages/ta-account.php:49
+msgid "Password"
+msgstr "كلمة السر"
+
+#: includes/pages/ta-account.php:56
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: includes/pages/ta-checkout.php:67
+msgid "Order placement in progress"
+msgstr "الطلب قيد التنفيذ"
+
+#: includes/pages/ta-checkout.php:68
+msgid "Order placement failed"
+msgstr "حدث خطأ اثناء تسجيل الطلب"
+
+#: includes/pages/ta-checkout-prepaid.php:109
+#: includes/ta-functions.php:574
+#: includes/ta-orders.php:24
+msgid "Shipping"
+msgstr "الشحن"
+
+#: includes/pages/ta-checkout.php:205
+msgid "Payment info"
+msgstr "تفاصيل الدفع"
+
+#: includes/pages/ta-checkout.php:207
+msgid "Payment method"
+msgstr "طريقة الدفع"
+
+#: includes/pages/ta-checkout.php:209
+msgid "Cash on delivery"
+msgstr "الدفع عند الاستلام"
+
+#: includes/pages/ta-checkout.php:211
+msgid "Pay with Moyasar"
+msgstr "الدفع عن طريق ميسر"
+
+#: includes/pages/ta-checkout-prepaid.php:258
+msgid "Please make sure all required fields are filled"
+msgstr "برجاء التأكد من ملئ جميع الخانات المطلوبة"
+
+#: includes/pages/ta-checkout-prepaid.php:265
+msgid "Phone number shall be "
+msgstr "يجب أن يتكون رقم الهاتف من "
+
+#: includes/pages/ta-checkout-prepaid.php:267
+msgid " digits"
+msgstr " أرقام"
+
+#: includes/pages/ta-checkout.php:157
+msgid "Alternate phone number shall be "
+msgstr "يجب أن يتكون رقم الهاتف البديل من "
+
+#: includes/pages/ta-country-selection.php:9
+msgid "Select the country to link your store to"
+msgstr "اختار البلد لربط الموقع بها"
+
+#: includes/pages/ta-country-selection.php:11
+msgid "Kindly note that the selected country cannot be changed"
+msgstr "برجاء العلم انه باختيار البلد لا يمكن تغيير هذا الاختيار مره اخري"
+
+#: includes/pages/ta-country-selection.php:17
+msgid "Country:"
+msgstr "البلد:"
+
+#: includes/pages/ta-country-selection.php:20
+msgid "Select country"
+msgstr "اختر البلد"
+
+#: includes/pages/ta-country-selection.php:30
+msgid "Submit"
+msgstr "تحديد"
+
+msgid "EGY"
+msgstr "مصر"
+
+msgid "SAU"
+msgstr "المملكة العربية السعودية"
+
+msgid "ARE"
+msgstr "الإمارات العربية المتحدة"
+
+msgid "UAE"
+msgstr "الإمارات العربية المتحدة"
+
+msgid "IRQ"
+msgstr "العراق"
+
+#: includes/ta-admin-functions.php:20
+msgid "Store linking"
+msgstr "ربط المتجر"
+
+#: includes/pages/ta-products-import-page.php:21 includes/ta-admin-functions.php:25 includes/ta-admin-functions.php:27
+msgid "Products Import"
+msgstr "استيراد المنتجات"
+
+#: includes/pages/ta-products-import-page.php:22
+msgid "You can import a whole category or a single product"
+msgstr "يمكنك استيراد قسم كامل من المنتجات او استيراد منتج واحد"
+
+#: includes/pages/ta-products-import-page.php:27
+msgid "Import category"
+msgstr "استيراد قسم"
+
+#: includes/pages/ta-products-import-page.php:30
+msgid "Choose a category"
+msgstr "اختار القسم"
+
+#: includes/pages/ta-products-import-page.php:46
+msgid "To import a category, select the intended category, and then click on the import button"
+msgstr "لاستيراد قسم كامل اختر القسم المراد استيراده واضغط على استيراد"
+
+#: includes/pages/ta-products-import-page.php:48
+msgid "Import product (Product name):"
+msgstr "استيراد منتج (اسم المنتج):"
+
+#: includes/pages/ta-products-import-page.php:53
+msgid "Enter the product name (Product name has to match the name on taager's website), then click on the import button"
+msgstr "اكتب اسم المنتج (يجب ان يتطابق اسم المنتج مع الاسم على منصة تاجر) ثم اضغط استيراد"
+
+#: includes/pages/ta-products-import-page.php:55
+msgid "Import product (Product SKU):"
+msgstr "استيراد منتج (كود المنتج):"
+
+#: includes/pages/ta-products-import-page.php:61
+msgid "Enter the product SKU (Can be found on taager's website on the product's details page), then click on the import button"
+msgstr "ادخل كود المنتج (سوف تجد الكود داخل صفحة المنتج على منصة تاجر) ثم اضغط استيراد"
+
+#: includes/pages/ta-products-import-page.php:66
+msgid "Products import in progress"
+msgstr "جارى استيراد المنتجات"
+
+#: includes/ta-admin-functions.php:32 includes/ta-admin-functions.php:33 #: includes/ta-admin-functions.php:99
+msgid "Shipping settings"
+msgstr "اعدادات الشحن"
+
+#: includes/pages/ta-country-selection.php:8 includes/ta-admin-functions.php:38 includes/ta-admin-functions.php:39
+msgid "Country selection"
+msgstr "اختيار البلد"
+
+#: includes/ta-admin-functions.php:104
+msgid "Click here to update the shipping settings and fees:"
+msgstr "اضغط هنا لتحديث اعدادات واسعار الشحن:"
+
+#: includes/ta-admin-functions.php:105
+msgid "Update"
+msgstr "تحديث"
+
+#: includes/ta-admin-functions.php:111
+msgid "Date of last update:"
+msgstr "تاريخ اخر تحديث:"
+
+#: includes/ta-admin-functions.php:116
+msgid "Updating"
+msgstr "جاري التحديث"
+
+#: includes/ta-admin-functions.php:117
+msgid "Updated successfully"
+msgstr "تم التحديث بنجاح"
+
+#: includes/ta-checkbox.php:14
+msgid "Free Shipping"
+msgstr "شحن مجاني"
+
+#: includes/ta-functions.php:297
+msgid "Full name"
+msgstr "الاسم بالكامل"
+
+#: includes/ta-functions.php:506
+msgid "You can not add this product at the moment."
+msgstr "لا يمكن إضافة هذا المنتج في الوقت الحالي."
+
+#: includes/ta-functions.php:842
+#: includes/ta-functions.php:877
+msgid "How to use"
+msgstr "طريقة الإستخدام"
+
+#: includes/ta-functions.php:918
+msgid "alternate phone"
+msgstr "هاتف بديل"
+
+#: includes/ta-functions.php:932
+msgid "Phone 2"
+msgstr "رقم هاتف البديل"
+
+#: includes/ta-functions.php:938
+msgid "alternate phone number"
+msgstr "رقم هاتف البديل"
+
+#: includes/ta-functions.php:1023 includes/ta-functions.php:1045
+msgid "Taager product price"
+msgstr "السعر الأصلي من تاجر"
+
+#: includes/ta-products-import.php:24
+msgid "Products that were already imported"
+msgstr "منتجات موجودة وتم استيرادها من قبل"
+
+#: includes/ta-products-import.php:30
+msgid "Imported products"
+msgstr "المنتجات المستوردة"
+
+#: includes/ta-provinces.php:70
+msgid "No cities available"
+msgstr "لا توجد مدن للإختيار"
+
+#: includes/ta-provinces.php:97
+msgid "No districts available"
+msgstr "لا توجد أحياء للإختيار"
+
+#: includes/ta-provinces.php:108
+msgid "City"
+msgstr "المدينة"
+
+#: includes/ta-provinces.php:108
+msgid "District"
+msgstr "الحي"
+
+#: includes/ta-scheduled-tasks.php:13
+msgid "Every 5 Minutes"
+msgstr "كل 5 دقائق"
+
+#: includes/ta-scheduled-tasks.php:17
+msgid "Every 10 Minutes"
+msgstr "كل 10 دقائق"
+
+#: includes/ta-scheduled-tasks.php:21
+msgid "Every Half an Hour"
+msgstr "كل نصف ساعة"
+
+#: includes/ta-scheduled-tasks.php:25
+msgid "Every One Hour"
+msgstr "كل ساعة"

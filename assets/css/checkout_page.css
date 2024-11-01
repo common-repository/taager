@@ -1,0 +1,51 @@
+.woocommerce-checkout form .form-row.woocommerce-invalid input.input-text, .woocommerce-checkout form .form-row.woocommerce-invalid select {
+    border: 2px solid #ff0000 !important;
+}
+
+.order-rejection-reason-text {
+    color: #ce0021;
+    background: #f5ccd3;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.checkout__payment-info-details {
+    margin-bottom: 24px;
+}
+.hidden {
+    display: none;
+}
+.order-processing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.order-processing__loader {
+    width: 100px;
+}
+
+.cash-on-delivery__wrapper{
+    border: 1px solid #D9DBDF;
+    padding: 8px 18px 8px 18px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.pay-with-moyasar__wrapper{
+    border: 1px solid #D9DBDF;
+    padding: 8px 18px 8px 18px;
+    border-radius: 8px;
+}
+
+.pay-with-moyasar__images-wrapper{
+    display: flex;
+    gap: 4px;
+}
+
+.pay-with-moyasar__supported-networks-images{
+    border: 1px solid #D9DBDF;
+    display: flex;
+    gap: 4px;
+    padding-inline: 3px;
+}

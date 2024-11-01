@@ -1,0 +1,289 @@
+# Copyright (C) 2023 Taager
+# This file is distributed under the same license as the Taager plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Taager 1.13.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/taager-woocommerce-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-09-27T22:40:22+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: taager-plugin\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "Taager"
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to manage Woocommerce products, orders with Taager."
+msgstr ""
+
+#: includes/pages/ta-account.php:15
+msgid "Link your store with your Taager account"
+msgstr ""
+
+#: includes/pages/ta-account.php:18
+msgid "Please enter your Taager account login credentials"
+msgstr ""
+
+#: includes/pages/ta-account.php:23
+msgid "Invalid login details. Please check your username/password and try again."
+msgstr ""
+
+#: includes/pages/ta-account.php:32
+msgid "Logged in as:"
+msgstr ""
+
+#: includes/pages/ta-account.php:34
+msgid "Selected country:"
+msgstr ""
+
+#: includes/pages/ta-account.php:37
+msgid "Plugin version:"
+msgstr ""
+
+#: includes/pages/ta-account.php:39
+msgid "Logout"
+msgstr ""
+
+#: includes/pages/ta-account.php:44
+msgid "Username"
+msgstr ""
+
+#: includes/pages/ta-account.php:47
+msgid "Email or phone number"
+msgstr ""
+
+#: includes/pages/ta-account.php:51
+msgid "Password"
+msgstr ""
+
+#: includes/pages/ta-account.php:58
+msgid "Login"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:65
+msgid "Order placement in progress"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:66
+msgid "Order placement failed"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:107
+#: includes/ta-functions.php:487
+#: includes/ta-orders.php:24
+msgid "Shipping"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:184
+msgid "Payment info"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:186
+msgid "Payment method"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:188
+msgid "Cash on delivery"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:190
+msgid "Pay with Moyasar"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:258
+msgid "Please make sure all required fields are filled"
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:265
+#: includes/pages/ta-checkout.php:145
+msgid "Phone number shall be "
+msgstr ""
+
+#: includes/pages/ta-checkout-prepaid.php:267
+#: includes/pages/ta-checkout.php:145
+#: includes/pages/ta-checkout.php:152
+msgid " digits"
+msgstr ""
+
+#: includes/pages/ta-checkout.php:94
+msgid "Full name"
+msgstr ""
+
+#: includes/pages/ta-checkout.php:105
+msgid "alternate phone"
+msgstr ""
+
+#: includes/pages/ta-checkout.php:152
+msgid "Alternate phone number shall be "
+msgstr ""
+
+#: includes/pages/ta-country-selection.php:8
+#: includes/ta-admin-functions.php:39
+#: includes/ta-admin-functions.php:40
+msgid "Country selection"
+msgstr ""
+
+#: includes/pages/ta-country-selection.php:9
+msgid "Select the country to link your store to"
+msgstr ""
+
+#: includes/pages/ta-country-selection.php:11
+msgid "Kindly note that the selected country cannot be changed"
+msgstr ""
+
+#: includes/pages/ta-country-selection.php:17
+msgid "Country:"
+msgstr ""
+
+#: includes/pages/ta-country-selection.php:20
+msgid "Select country"
+msgstr ""
+
+#: includes/pages/ta-country-selection.php:30
+msgid "Submit"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:21
+#: includes/ta-admin-functions.php:26
+#: includes/ta-admin-functions.php:28
+msgid "Products Import"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:22
+msgid "You can import a whole category or a single product"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:27
+msgid "Import category"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:30
+msgid "Choose a category"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:46
+msgid "To import a category, select the intended category, and then click on the import button"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:48
+msgid "Import product (Product name):"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:53
+msgid "Enter the product name (Product name has to match the name on taager's website), then click on the import button"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:55
+msgid "Import product (Product SKU):"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:61
+msgid "Enter the product SKU (Can be found on taager's website on the product's details page), then click on the import button"
+msgstr ""
+
+#: includes/pages/ta-products-import-page.php:66
+msgid "Products import in progress"
+msgstr ""
+
+#: includes/ta-admin-functions.php:21
+msgid "Store linking"
+msgstr ""
+
+#: includes/ta-admin-functions.php:33
+#: includes/ta-admin-functions.php:34
+#: includes/ta-admin-functions.php:100
+msgid "Shipping settings"
+msgstr ""
+
+#: includes/ta-admin-functions.php:105
+msgid "Click here to update the shipping settings and fees:"
+msgstr ""
+
+#: includes/ta-admin-functions.php:106
+msgid "Update"
+msgstr ""
+
+#: includes/ta-admin-functions.php:112
+msgid "Date of last update:"
+msgstr ""
+
+#: includes/ta-admin-functions.php:117
+msgid "Updating"
+msgstr ""
+
+#: includes/ta-admin-functions.php:118
+msgid "Updated successfully"
+msgstr ""
+
+#: includes/ta-checkbox.php:14
+msgid "Free Shipping"
+msgstr ""
+
+#: includes/ta-functions.php:411
+msgid "You can not add this product at the moment."
+msgstr ""
+
+#: includes/ta-functions.php:755
+#: includes/ta-functions.php:790
+msgid "How to use"
+msgstr ""
+
+#: includes/ta-functions.php:827
+msgid "Phone 2"
+msgstr ""
+
+#: includes/ta-functions.php:833
+msgid "alternate phone number"
+msgstr ""
+
+#: includes/ta-functions.php:857
+#: includes/ta-functions.php:880
+msgid "Taager product price"
+msgstr ""
+
+#: includes/ta-products-import.php:24
+msgid "Products that were already imported"
+msgstr ""
+
+#: includes/ta-products-import.php:30
+msgid "Imported products"
+msgstr ""
+
+#: includes/ta-provinces.php:70
+msgid "No cities available"
+msgstr ""
+
+#: includes/ta-provinces.php:97
+msgid "No districts available"
+msgstr ""
+
+#: includes/ta-provinces.php:108
+msgid "City"
+msgstr ""
+
+#: includes/ta-provinces.php:108
+msgid "District"
+msgstr ""
+
+#: includes/ta-scheduled-tasks.php:13
+msgid "Every 5 Minutes"
+msgstr ""
+
+#: includes/ta-scheduled-tasks.php:17
+msgid "Every 10 Minutes"
+msgstr ""
+
+#: includes/ta-scheduled-tasks.php:21
+msgid "Every Half an Hour"
+msgstr ""
+
+#: includes/ta-scheduled-tasks.php:25
+msgid "Every One Hour"
+msgstr ""
